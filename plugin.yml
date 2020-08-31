@@ -1,0 +1,8 @@
+name: DMPPlaceholderAPI
+main: email.com.gmail.cosmoconsole.bukkit.deathmsg.placeholder.Main
+version: 1.3
+api-version: 1.13
+description: Acts as a bridge between DeathMessagesPrime and PlaceholderAPI / MVdWPlaceholderAPI, allowing the former to use the latter placeholders.
+author: CosmoConsole
+depend: [DeathMessagesPrime]
+softdepend: [MVdWPlaceholderAPI, PlaceholderAPI]
